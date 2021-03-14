@@ -1,0 +1,12 @@
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.csprojAssemblyReference.cache
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.AssemblyInfoInputs.cache
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.AssemblyInfo.cs
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.csproj.CoreCompileInputs.cache
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\bin\Debug\netstandard2.0\BookClient.deps.json
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\bin\Debug\netstandard2.0\BookClient.dll
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\bin\Debug\netstandard2.0\BookClient.pdb
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\XamlC.stamp
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.dll
+F:\_VisualStudio\Projects\MobileApps\BookClientProject\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.pdb

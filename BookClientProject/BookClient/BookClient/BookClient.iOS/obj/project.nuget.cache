@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yA4bSZ3Kwq7TBkw4LvOr0Nrv8cqCKQcwn3u3nLzKh0JwF0iD8Lejuq/E+jDY0VMbLexcVD+i0G2bcm+zyOFspA==",
+  "success": true,
+  "projectFilePath": "F:\\_VisualStudio\\Projects\\MobileApps\\BookClientProject\\BookClient\\BookClient\\BookClient.iOS\\BookClient.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
