@@ -1,0 +1,17 @@
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\bin\Debug\netstandard2.0\Astronomy.deps.json
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\bin\Debug\netstandard2.0\Astronomy.dll
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\bin\Debug\netstandard2.0\Astronomy.pdb
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Astronomy.csprojAssemblyReference.cache
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Pages\AboutPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Pages\AstronomicalBodiesPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Pages\AstronomicalBodyPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Pages\MoonPhasePage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Pages\SunrisePage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Astronomy.AssemblyInfoInputs.cache
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Astronomy.AssemblyInfo.cs
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Astronomy.csproj.CoreCompileInputs.cache
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\XamlC.stamp
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Astronomy.dll
+F:\_VisualStudio\Projects\MobileApps\AstronomyProject\Astronomy\Astronomy\obj\Debug\netstandard2.0\Astronomy.pdb
