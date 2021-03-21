@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1bDgGhzPtpHDZM7ob7GrNYa5C8C2ThvObq0VIxzr7FuQmMvwZaCqqNSrx8zwIUdg2fR2Ya2Bu84sAPL0g9EreA==",
+  "success": true,
+  "projectFilePath": "F:\\_VisualStudio\\Projects\\MobileApps\\GreatQuotesProject\\FactoryPattern\\GreatQuotes\\GreatQuotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.forms\\3.6.0.264807\\xamarin.forms.3.6.0.264807.nupkg.sha512"
+  ],
+  "logs": []
+}

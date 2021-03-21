@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "DicKne5Wdy2kQJH1ilALevfR0Ef8GqRB+1CqLnbj1yFAkJ0tfh5xzcSGZNGk8sjuehjwUsDRLRYVTojLlM9A3Q==",
+  "success": true,
+  "projectFilePath": "F:\\_VisualStudio\\Projects\\MobileApps\\GreatQuotesProject\\FactoryPattern\\GreatQuotes.Android\\GreatQuotes.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.1\\xamarin.android.arch.core.common.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.arch.lifecycle.common\\1.1.1.1\\xamarin.android.arch.lifecycle.common.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.arch.lifecycle.runtime\\1.1.1.1\\xamarin.android.arch.lifecycle.runtime.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.animated.vector.drawable\\28.0.0.1\\xamarin.android.support.animated.vector.drawable.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.annotations\\28.0.0.1\\xamarin.android.support.annotations.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.compat\\28.0.0.1\\xamarin.android.support.compat.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.core.ui\\28.0.0.1\\xamarin.android.support.core.ui.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.core.utils\\28.0.0.1\\xamarin.android.support.core.utils.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.customtabs\\28.0.0.1\\xamarin.android.support.customtabs.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.design\\28.0.0.1\\xamarin.android.support.design.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.fragment\\28.0.0.1\\xamarin.android.support.fragment.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.media.compat\\28.0.0.1\\xamarin.android.support.media.compat.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.transition\\28.0.0.1\\xamarin.android.support.transition.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.v4\\28.0.0.1\\xamarin.android.support.v4.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.v7.appcompat\\28.0.0.1\\xamarin.android.support.v7.appcompat.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.v7.cardview\\28.0.0.1\\xamarin.android.support.v7.cardview.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.v7.mediarouter\\28.0.0.1\\xamarin.android.support.v7.mediarouter.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.v7.palette\\28.0.0.1\\xamarin.android.support.v7.palette.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.v7.recyclerview\\28.0.0.1\\xamarin.android.support.v7.recyclerview.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.android.support.vector.drawable\\28.0.0.1\\xamarin.android.support.vector.drawable.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.forms\\3.6.0.264807\\xamarin.forms.3.6.0.264807.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ScN0GrSXm94UZP+4+KoMVcZUfC2U0Vl5n8yyd9g0pTIenX8v5UeGADUR0kaK3tOe1ltNNi9jwrNnsnjsYHvjBQ==",
+  "success": true,
+  "projectFilePath": "F:\\_VisualStudio\\Projects\\MobileApps\\GreatQuotesProject\\FactoryPattern\\GreatQuotes.iOS\\GreatQuotes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.forms\\3.6.0.264807\\xamarin.forms.3.6.0.264807.nupkg.sha512"
+  ],
+  "logs": []
+}

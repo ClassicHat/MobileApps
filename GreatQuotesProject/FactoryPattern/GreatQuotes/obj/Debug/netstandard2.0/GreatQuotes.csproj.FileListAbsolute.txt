@@ -1,0 +1,14 @@
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\bin\Debug\netstandard2.0\GreatQuotes.deps.json
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\bin\Debug\netstandard2.0\GreatQuotes.dll
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\bin\Debug\netstandard2.0\GreatQuotes.pdb
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.csprojAssemblyReference.cache
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\Views\EditQuotePage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\Views\QuoteDetailPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\Views\QuoteListPage.xaml.g.cs
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.AssemblyInfoInputs.cache
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.AssemblyInfo.cs
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.csproj.CoreCompileInputs.cache
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\XamlC.stamp
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.dll
+F:\_VisualStudio\Projects\MobileApps\GreatQuotesProject\FactoryPattern\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.pdb
