@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WIGr+Cg1I99GN0o+CWmnOmj+MpFmlbvxIonDAoutonfWdGaSq/qUBYIsYIARpkgtzkK9Wvl8LtUiwgcgfXCqA==",
+  "success": true,
+  "projectFilePath": "F:\\_VisualStudio\\Projects\\MobileApps\\XanimalsProject\\Xaminals.iOS\\Xaminals.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Dylan Buehler\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
