@@ -8,6 +8,8 @@ using Xamarin.Forms;
 using Xaminals.Data;
 using Xaminals.Views;
 
+
+
 namespace Xaminals
 {
     public partial class AppShell : Shell
@@ -24,6 +26,7 @@ namespace Xaminals
             InitializeComponent();
             RegisterRoutes();
             BindingContext = this;
+           
         }
 
         void RegisterRoutes()
@@ -33,6 +36,8 @@ namespace Xaminals
             routes.Add("catdetails", typeof(CatDetailPage));
             routes.Add("dogdetails", typeof(DogDetailPage));
             routes.Add("elephantdetails", typeof(ElephantDetailPage));
+
+            //When you switch between tabs it crashes the app. Just something I found.
 
             foreach (var item in routes)
             {
